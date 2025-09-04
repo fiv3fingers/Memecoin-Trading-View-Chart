@@ -62,4 +62,4 @@ MONGODB_URI=
 `MONGODB_URI`: MongoDB connection string for storing historical trading data, chart candles, and API cache. Make sure to replace with your own credentials if deploying.
 
 ## Contact
-If you need any help, you can ping me on [Telegram](https://t.me/fiv3fingers)
+If you need any help, you can ping me on [Telegram](https://t.me/idioRusty)
